@@ -3,16 +3,16 @@
 
 I am a 4th-year Economics undergraduate at the Federal University of Juiz de Fora (UFJF), bridging the gap between traditional economic theory, financial markets, and modern data science. 
 
-### 💼 Professional & Academic Focus
+###  Professional & Academic Focus
 Currently, I work at Crescento Consultoria Financeira, where I apply my academic background to real-world scenarios, focusing on investment analysis, valuation, and financial modeling. Academically, I am deeply involved in quantitative research, participating in the QuantEcon UFJF project and currently developing my thesis on the structural decomposition analysis of the Brazilian aviation fuel market.
 
-### 💻 Tech Stack & Projects
+###  Tech Stack & Projects
 I am passionate about automating workflows and extracting insights from complex data. My technical toolkit is heavily centered around **Python** and **R**, which I use for:
 * **Data Science & Econometrics:** Building models and analyzing large datasets.
 * **Financial Automation:** Developing algorithmic trading bots (e.g., for MetaTrader 5) and backtesting strategies.
 * **AI & Data Extraction:** Creating systems to scrape, categorize, and structure data from financial documents and bank statements using AI tools.
 
-### 🏎️ Beyond the Code
+###  Beyond the Code
 When I'm stepping away from spreadsheets, IDEs, and market charts, I'm usually chasing adrenaline on the track. I am a huge fan of **karting**—finding the perfect racing line and shaving milliseconds off a lap time is my favorite way to disconnect. Whether I'm optimizing a Python script for a trading bot or fine-tuning my lines on the kart track, I'm always looking for that extra edge in performance!
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eurico.junior.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/euricojunior01/) 
