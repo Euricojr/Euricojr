@@ -1,50 +1,75 @@
-#  About Me:
-# 👋 Hello there! I'm Eurico
+<div align="center">
 
-I am a 4th-year Economics undergraduate at the Federal University of Juiz de Fora (UFJF), bridging the gap between traditional economic theory, financial markets, and modern data science. 
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Eurico+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Economist+%26+Quant+Researcher;Python+%C2%B7+R+%C2%B7+FinTech;Building+the+future+of+finance)](https://git.io/typing-svg)
 
-###  Professional & Academic Focus
-Currently, I work at Crescento Consultoria Financeira, where I apply my academic background to real-world scenarios, focusing on investment analysis, valuation, and financial modeling. Academically, I am deeply involved in quantitative research, participating in the QuantEcon UFJF project and currently developing my thesis on the structural decomposition analysis of the Brazilian aviation fuel market.
+**Economics @ UFJF &nbsp;·&nbsp; Financial Modeling &nbsp;·&nbsp; Quant Research &nbsp;·&nbsp; Algorithmic Trading**
 
-###  Tech Stack & Projects
-I am passionate about automating workflows and extracting insights from complex data. My technical toolkit is heavily centered around **Python** and **R**, which I use for:
-* **Data Science & Econometrics:** Building models and analyzing large datasets.
-* **Financial Automation:** Developing algorithmic trading bots (e.g., for MetaTrader 5) and backtesting strategies.
-* **AI & Data Extraction:** Creating systems to scrape, categorize, and structure data from financial documents and bank statements using AI tools.
-
-###  Beyond the Code
-When I'm stepping away from spreadsheets, IDEs, and market charts, I'm usually chasing adrenaline on the track. I am a huge fan of **karting**—finding the perfect racing line and shaving milliseconds off a lap time is my favorite way to disconnect. Whether I'm optimizing a Python script for a trading bot or fine-tuning my lines on the kart track, I'm always looking for that extra edge in performance!
-##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eurico.junior.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/euricojunior01/) 
-
-#  Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Euricojr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Euricojr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Euricojr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 
 ---
 
+## 🔵 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=Euricojr&icon=2&color=1)](https://visitcount.itsvg.in)
+| | |
+|---|---|
+| 💼 **Currently** | Crescento Consultoria Financeira |
+| 🔬 **Research** | QuantEcon UFJF + thesis on Brazilian aviation fuel market |
+| 🎓 **Degree** | Economics, 4th year — UFJF |
+| 🏎️ **Outside the code** | Karting enthusiast |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Euricojr/Euricojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🟢 Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td>📊 <b>Data Science & Econometrics</b><br/>Building models and analyzing large datasets with Python and R</td>
+<td>🤖 <b>Financial Automation</b><br/>Algorithmic trading bots for MetaTrader 5, backtesting strategies</td>
+</tr>
+<tr>
+<td colspan="2">🧠 <b>AI & Data Extraction</b><br/>Scraping, categorizing and structuring data from financial documents using AI tools</td>
+</tr>
+</table>
+
+---
+
+## 🟠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MetaTrader](https://img.shields.io/badge/MetaTrader_5-00A86B?style=flat-square&logoColor=white)
+
+---
+
+## 🟣 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Euricojr&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euricojr&theme=github_dark&hide_border=true&layout=compact" />
+
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Euricojr&theme=github-dark-blue&hide_border=true" />
+
+<!-- Snake animation - adicione depois de configurar o GitHub Action abaixo -->
+<!-- <img src="https://raw.githubusercontent.com/Euricojr/Euricojr/output/github-contribution-grid-snake-dark.svg" /> -->
+
+</div>
+
+---
+
+## 🟡 Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/eurico.junior.7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euricojunior01/)
+
+---
+
+<div align="center">
+<sub>Profile views</sub><br/>
+
+[![](https://visitcount.itsvg.in/api?id=Euricojr&icon=2&color=6)](https://visitcount.itsvg.in)
+</div>
